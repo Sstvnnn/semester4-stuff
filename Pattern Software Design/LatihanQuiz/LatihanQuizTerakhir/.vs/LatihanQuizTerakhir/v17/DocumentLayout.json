@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{575B7200-AAC5-4D24-B5FD-FF9F1CB578EE}|LatihanQuizTerakhir\\LatihanQuizTerakhir.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\latihanquizterakhir\\latihanquizterakhir\\view\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{575B7200-AAC5-4D24-B5FD-FF9F1CB578EE}|LatihanQuizTerakhir\\LatihanQuizTerakhir.csproj|solutionrelative:latihanquizterakhir\\view\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575B7200-AAC5-4D24-B5FD-FF9F1CB578EE}|LatihanQuizTerakhir\\LatihanQuizTerakhir.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\latihanquizterakhir\\latihanquizterakhir\\view\\insertpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575B7200-AAC5-4D24-B5FD-FF9F1CB578EE}|LatihanQuizTerakhir\\LatihanQuizTerakhir.csproj|solutionrelative:latihanquizterakhir\\view\\insertpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575B7200-AAC5-4D24-B5FD-FF9F1CB578EE}|LatihanQuizTerakhir\\LatihanQuizTerakhir.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\latihanquizterakhir\\latihanquizterakhir\\factory\\burgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575B7200-AAC5-4D24-B5FD-FF9F1CB578EE}|LatihanQuizTerakhir\\LatihanQuizTerakhir.csproj|solutionrelative:latihanquizterakhir\\factory\\burgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575B7200-AAC5-4D24-B5FD-FF9F1CB578EE}|LatihanQuizTerakhir\\LatihanQuizTerakhir.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\latihanquizterakhir\\latihanquizterakhir\\view\\insertpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{575B7200-AAC5-4D24-B5FD-FF9F1CB578EE}|LatihanQuizTerakhir\\LatihanQuizTerakhir.csproj|solutionrelative:latihanquizterakhir\\view\\insertpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575B7200-AAC5-4D24-B5FD-FF9F1CB578EE}|LatihanQuizTerakhir\\LatihanQuizTerakhir.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\latihanquizterakhir\\latihanquizterakhir\\repositories\\burgerrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575B7200-AAC5-4D24-B5FD-FF9F1CB578EE}|LatihanQuizTerakhir\\LatihanQuizTerakhir.csproj|solutionrelative:latihanquizterakhir\\repositories\\burgerrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575B7200-AAC5-4D24-B5FD-FF9F1CB578EE}|LatihanQuizTerakhir\\LatihanQuizTerakhir.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\latihanquizterakhir\\latihanquizterakhir\\singleton\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575B7200-AAC5-4D24-B5FD-FF9F1CB578EE}|LatihanQuizTerakhir\\LatihanQuizTerakhir.csproj|solutionrelative:latihanquizterakhir\\singleton\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575B7200-AAC5-4D24-B5FD-FF9F1CB578EE}|LatihanQuizTerakhir\\LatihanQuizTerakhir.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\latihanquizterakhir\\latihanquizterakhir\\view\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575B7200-AAC5-4D24-B5FD-FF9F1CB578EE}|LatihanQuizTerakhir\\LatihanQuizTerakhir.csproj|solutionrelative:latihanquizterakhir\\view\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BurgerRepositories.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\LatihanQuizTerakhir\\Repositories\\BurgerRepositories.cs",
+              "RelativeDocumentMoniker": "LatihanQuizTerakhir\\Repositories\\BurgerRepositories.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\LatihanQuizTerakhir\\Repositories\\BurgerRepositories.cs",
+              "RelativeToolTip": "LatihanQuizTerakhir\\Repositories\\BurgerRepositories.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:58:42.501Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertPage.aspx",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\LatihanQuizTerakhir\\View\\InsertPage.aspx",
+              "RelativeDocumentMoniker": "LatihanQuizTerakhir\\View\\InsertPage.aspx",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\LatihanQuizTerakhir\\View\\InsertPage.aspx",
+              "RelativeToolTip": "LatihanQuizTerakhir\\View\\InsertPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-13T12:48:54.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseSingleton.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\LatihanQuizTerakhir\\Singleton\\DatabaseSingleton.cs",
+              "RelativeDocumentMoniker": "LatihanQuizTerakhir\\Singleton\\DatabaseSingleton.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\LatihanQuizTerakhir\\Singleton\\DatabaseSingleton.cs",
+              "RelativeToolTip": "LatihanQuizTerakhir\\Singleton\\DatabaseSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:00:38.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\LatihanQuizTerakhir\\View\\HomePage.aspx",
+              "RelativeDocumentMoniker": "LatihanQuizTerakhir\\View\\HomePage.aspx",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\LatihanQuizTerakhir\\View\\HomePage.aspx",
+              "RelativeToolTip": "LatihanQuizTerakhir\\View\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-13T11:46:50.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertPage.aspx.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\LatihanQuizTerakhir\\View\\InsertPage.aspx.cs",
+              "RelativeDocumentMoniker": "LatihanQuizTerakhir\\View\\InsertPage.aspx.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\LatihanQuizTerakhir\\View\\InsertPage.aspx.cs",
+              "RelativeToolTip": "LatihanQuizTerakhir\\View\\InsertPage.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:46:46.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BurgerFactory.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\LatihanQuizTerakhir\\Factory\\BurgerFactory.cs",
+              "RelativeDocumentMoniker": "LatihanQuizTerakhir\\Factory\\BurgerFactory.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\LatihanQuizTerakhir\\Factory\\BurgerFactory.cs",
+              "RelativeToolTip": "LatihanQuizTerakhir\\Factory\\BurgerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:00:35.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.aspx.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\LatihanQuizTerakhir\\View\\HomePage.aspx.cs",
+              "RelativeDocumentMoniker": "LatihanQuizTerakhir\\View\\HomePage.aspx.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuizTerakhir\\LatihanQuizTerakhir\\View\\HomePage.aspx.cs",
+              "RelativeToolTip": "LatihanQuizTerakhir\\View\\HomePage.aspx.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwD4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:46:43.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

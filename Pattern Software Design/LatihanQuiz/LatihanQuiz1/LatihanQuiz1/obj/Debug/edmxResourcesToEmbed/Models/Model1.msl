@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database1ModelStoreContainer" CdmEntityContainer="Database1Entities">
+    <EntitySetMapping Name="MsRamen">
+      <EntityTypeMapping TypeName="Database1Model.MsRaman">
+        <MappingFragment StoreEntitySet="MsRamen">
+          <ScalarProperty Name="RamenID" ColumnName="RamenID" />
+          <ScalarProperty Name="RamenName" ColumnName="RamenName" />
+          <ScalarProperty Name="RamenPrice" ColumnName="RamenPrice" />
+          <ScalarProperty Name="RamenTypeID" ColumnName="RamenTypeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MsRamenTypes">
+      <EntityTypeMapping TypeName="Database1Model.MsRamenType">
+        <MappingFragment StoreEntitySet="MsRamenType">
+          <ScalarProperty Name="RamenTypeID" ColumnName="RamenTypeID" />
+          <ScalarProperty Name="RamenTypeName" ColumnName="RamenTypeName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

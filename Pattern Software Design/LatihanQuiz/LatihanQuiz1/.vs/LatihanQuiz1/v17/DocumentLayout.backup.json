@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\latihanquiz1\\latihanquiz1\\view\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|solutionrelative:latihanquiz1\\view\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\latihanquiz1\\view\\updatepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|solutionrelative:latihanquiz1\\view\\updatepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\latihanquiz1\\latihanquiz1\\repository\\ramenrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|solutionrelative:latihanquiz1\\repository\\ramenrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\latihanquiz1\\view\\updatepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|solutionrelative:latihanquiz1\\view\\updatepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\latihanquiz1\\view\\insertpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|solutionrelative:latihanquiz1\\view\\insertpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\latihanquiz1\\view\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|solutionrelative:latihanquiz1\\view\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\latihanquiz1\\latihanquiz1\\factory\\ramenfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|solutionrelative:latihanquiz1\\factory\\ramenfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\latihanquiz1\\view\\insertpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|solutionrelative:latihanquiz1\\view\\insertpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\latihanquiz1\\latihanquiz1\\repository\\ramentyperepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|solutionrelative:latihanquiz1\\repository\\ramentyperepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\latihanquiz1\\latihanquiz1\\singleton\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|solutionrelative:latihanquiz1\\singleton\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\latihanquiz1\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{8B6950FE-2760-4F05-A00E-5BF562F9D49F}|LatihanQuiz1\\LatihanQuiz1.csproj|solutionrelative:latihanquiz1\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InsertPage.aspx",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\View\\InsertPage.aspx",
+              "RelativeDocumentMoniker": "LatihanQuiz1\\View\\InsertPage.aspx",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\View\\InsertPage.aspx",
+              "RelativeToolTip": "LatihanQuiz1\\View\\InsertPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-10T08:05:15.016Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Homepage.aspx",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\View\\Homepage.aspx",
+              "RelativeDocumentMoniker": "LatihanQuiz1\\View\\Homepage.aspx",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\View\\Homepage.aspx",
+              "RelativeToolTip": "LatihanQuiz1\\View\\Homepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-10T07:11:26.728Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertPage.aspx.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\View\\InsertPage.aspx.cs",
+              "RelativeDocumentMoniker": "LatihanQuiz1\\View\\InsertPage.aspx.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\View\\InsertPage.aspx.cs",
+              "RelativeToolTip": "LatihanQuiz1\\View\\InsertPage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:50:39.73Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Homepage.aspx.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\View\\Homepage.aspx.cs",
+              "RelativeDocumentMoniker": "LatihanQuiz1\\View\\Homepage.aspx.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\View\\Homepage.aspx.cs",
+              "RelativeToolTip": "LatihanQuiz1\\View\\Homepage.aspx.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAnwEEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:51:57.646Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdatePage.aspx",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\View\\UpdatePage.aspx",
+              "RelativeDocumentMoniker": "LatihanQuiz1\\View\\UpdatePage.aspx",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\View\\UpdatePage.aspx",
+              "RelativeToolTip": "LatihanQuiz1\\View\\UpdatePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-11T06:06:57.277Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdatePage.aspx.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\View\\UpdatePage.aspx.cs",
+              "RelativeDocumentMoniker": "LatihanQuiz1\\View\\UpdatePage.aspx.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\View\\UpdatePage.aspx.cs",
+              "RelativeToolTip": "LatihanQuiz1\\View\\UpdatePage.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:08:39.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseSingleton.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\Singleton\\DatabaseSingleton.cs",
+              "RelativeDocumentMoniker": "LatihanQuiz1\\Singleton\\DatabaseSingleton.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\Singleton\\DatabaseSingleton.cs",
+              "RelativeToolTip": "LatihanQuiz1\\Singleton\\DatabaseSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:01:44.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RamenFactory.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\Factory\\RamenFactory.cs",
+              "RelativeDocumentMoniker": "LatihanQuiz1\\Factory\\RamenFactory.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\Factory\\RamenFactory.cs",
+              "RelativeToolTip": "LatihanQuiz1\\Factory\\RamenFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:34:16.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RamenRepositories.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\Repository\\RamenRepositories.cs",
+              "RelativeDocumentMoniker": "LatihanQuiz1\\Repository\\RamenRepositories.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\Repository\\RamenRepositories.cs",
+              "RelativeToolTip": "LatihanQuiz1\\Repository\\RamenRepositories.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:09:38.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RamenTypeRepositories.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\Repository\\RamenTypeRepositories.cs",
+              "RelativeDocumentMoniker": "LatihanQuiz1\\Repository\\RamenTypeRepositories.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\Repository\\RamenTypeRepositories.cs",
+              "RelativeToolTip": "LatihanQuiz1\\Repository\\RamenTypeRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:32:02.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "LatihanQuiz1\\Models\\Model1.edmx",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\LatihanQuiz1\\LatihanQuiz1\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "LatihanQuiz1\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-10T09:50:18.135Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

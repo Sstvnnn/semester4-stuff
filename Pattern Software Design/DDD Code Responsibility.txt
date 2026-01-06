@@ -1,0 +1,7 @@
+Jadi di project disuruh make DDD itu ada 5:
+1. View (Tampilan frontend)
+2. Controller (Validasi inputan user dari view)
+3. Handler (Ngurus Bisnis Logic)
+4. Repository (Database)
+5. Factory (Ngebikin object)
+6. Model (Entity database)

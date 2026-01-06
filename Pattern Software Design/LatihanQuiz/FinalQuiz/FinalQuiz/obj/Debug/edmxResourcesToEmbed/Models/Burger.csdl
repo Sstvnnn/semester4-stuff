@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BurgerKingModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Burger">
+    <Key>
+      <PropertyRef Name="BurgerId" />
+    </Key>
+    <Property Name="BurgerId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BurgerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="BurgerPrice" Type="Int32" Nullable="false" />
+    <Property Name="BurgerStatus" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="BurgerKingEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Burgers" EntityType="Self.Burger" />
+  </EntityContainer>
+</Schema>

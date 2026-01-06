@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B39BF1-60BA-4BBA-B07E-FE129B1B8A32}|2702295373_PSDQuiz\\2702295373_PSDQuiz.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\2702295373_psdquiz\\2702295373_psdquiz\\view\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A4B39BF1-60BA-4BBA-B07E-FE129B1B8A32}|2702295373_PSDQuiz\\2702295373_PSDQuiz.csproj|solutionrelative:2702295373_psdquiz\\view\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B39BF1-60BA-4BBA-B07E-FE129B1B8A32}|2702295373_PSDQuiz\\2702295373_PSDQuiz.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\2702295373_psdquiz\\2702295373_psdquiz\\view\\insertpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B39BF1-60BA-4BBA-B07E-FE129B1B8A32}|2702295373_PSDQuiz\\2702295373_PSDQuiz.csproj|solutionrelative:2702295373_psdquiz\\view\\insertpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B39BF1-60BA-4BBA-B07E-FE129B1B8A32}|2702295373_PSDQuiz\\2702295373_PSDQuiz.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\2702295373_psdquiz\\2702295373_psdquiz\\view\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B39BF1-60BA-4BBA-B07E-FE129B1B8A32}|2702295373_PSDQuiz\\2702295373_PSDQuiz.csproj|solutionrelative:2702295373_psdquiz\\view\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B39BF1-60BA-4BBA-B07E-FE129B1B8A32}|2702295373_PSDQuiz\\2702295373_PSDQuiz.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\2702295373_psdquiz\\2702295373_psdquiz\\view\\insertpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A4B39BF1-60BA-4BBA-B07E-FE129B1B8A32}|2702295373_PSDQuiz\\2702295373_PSDQuiz.csproj|solutionrelative:2702295373_psdquiz\\view\\insertpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B39BF1-60BA-4BBA-B07E-FE129B1B8A32}|2702295373_PSDQuiz\\2702295373_PSDQuiz.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\2702295373_psdquiz\\2702295373_psdquiz\\repositories\\burgerrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B39BF1-60BA-4BBA-B07E-FE129B1B8A32}|2702295373_PSDQuiz\\2702295373_PSDQuiz.csproj|solutionrelative:2702295373_psdquiz\\repositories\\burgerrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B39BF1-60BA-4BBA-B07E-FE129B1B8A32}|2702295373_PSDQuiz\\2702295373_PSDQuiz.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\2702295373_psdquiz\\2702295373_psdquiz\\singleton\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B39BF1-60BA-4BBA-B07E-FE129B1B8A32}|2702295373_PSDQuiz\\2702295373_PSDQuiz.csproj|solutionrelative:2702295373_psdquiz\\singleton\\databasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B39BF1-60BA-4BBA-B07E-FE129B1B8A32}|2702295373_PSDQuiz\\2702295373_PSDQuiz.csproj|c:\\semester 4\\pattern software design\\latihanquiz\\2702295373_psdquiz\\2702295373_psdquiz\\factory\\burgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B39BF1-60BA-4BBA-B07E-FE129B1B8A32}|2702295373_PSDQuiz\\2702295373_PSDQuiz.csproj|solutionrelative:2702295373_psdquiz\\factory\\burgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertPage.aspx.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\2702295373_PSDQuiz\\View\\InsertPage.aspx.cs",
+              "RelativeDocumentMoniker": "2702295373_PSDQuiz\\View\\InsertPage.aspx.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\2702295373_PSDQuiz\\View\\InsertPage.aspx.cs",
+              "RelativeToolTip": "2702295373_PSDQuiz\\View\\InsertPage.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:44:12.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.aspx.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\2702295373_PSDQuiz\\View\\HomePage.aspx.cs",
+              "RelativeDocumentMoniker": "2702295373_PSDQuiz\\View\\HomePage.aspx.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\2702295373_PSDQuiz\\View\\HomePage.aspx.cs",
+              "RelativeToolTip": "2702295373_PSDQuiz\\View\\HomePage.aspx.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwD0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:35:14.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertPage.aspx",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\2702295373_PSDQuiz\\View\\InsertPage.aspx",
+              "RelativeDocumentMoniker": "2702295373_PSDQuiz\\View\\InsertPage.aspx",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\2702295373_PSDQuiz\\View\\InsertPage.aspx",
+              "RelativeToolTip": "2702295373_PSDQuiz\\View\\InsertPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-13T21:31:55.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\2702295373_PSDQuiz\\View\\HomePage.aspx",
+              "RelativeDocumentMoniker": "2702295373_PSDQuiz\\View\\HomePage.aspx",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\2702295373_PSDQuiz\\View\\HomePage.aspx",
+              "RelativeToolTip": "2702295373_PSDQuiz\\View\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-13T21:31:42.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BurgerRepositories.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\2702295373_PSDQuiz\\Repositories\\BurgerRepositories.cs",
+              "RelativeDocumentMoniker": "2702295373_PSDQuiz\\Repositories\\BurgerRepositories.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\2702295373_PSDQuiz\\Repositories\\BurgerRepositories.cs",
+              "RelativeToolTip": "2702295373_PSDQuiz\\Repositories\\BurgerRepositories.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:22:55.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BurgerFactory.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\2702295373_PSDQuiz\\Factory\\BurgerFactory.cs",
+              "RelativeDocumentMoniker": "2702295373_PSDQuiz\\Factory\\BurgerFactory.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\2702295373_PSDQuiz\\Factory\\BurgerFactory.cs",
+              "RelativeToolTip": "2702295373_PSDQuiz\\Factory\\BurgerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:21:12.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseSingleton.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\2702295373_PSDQuiz\\Singleton\\DatabaseSingleton.cs",
+              "RelativeDocumentMoniker": "2702295373_PSDQuiz\\Singleton\\DatabaseSingleton.cs",
+              "ToolTip": "C:\\SEMESTER 4\\Pattern Software Design\\LatihanQuiz\\2702295373_PSDQuiz\\2702295373_PSDQuiz\\Singleton\\DatabaseSingleton.cs",
+              "RelativeToolTip": "2702295373_PSDQuiz\\Singleton\\DatabaseSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:19:56.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

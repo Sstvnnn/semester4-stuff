@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="MsRamen">
+    <Key>
+      <PropertyRef Name="RamenID" />
+    </Key>
+    <Property Name="RamenID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RamenName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="RamenPrice" Type="int" Nullable="false" />
+    <Property Name="RamenTypeID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MsRamenType">
+    <Key>
+      <PropertyRef Name="RamenTypeID" />
+    </Key>
+    <Property Name="RamenTypeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RamenTypeName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_MsRamen_ToTable_MsRamenType">
+    <End Role="MsRamenType" Type="Self.MsRamenType" Multiplicity="1" />
+    <End Role="MsRamen" Type="Self.MsRamen" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MsRamenType">
+        <PropertyRef Name="RamenTypeID" />
+      </Principal>
+      <Dependent Role="MsRamen">
+        <PropertyRef Name="RamenTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Database1ModelStoreContainer">
+    <EntitySet Name="MsRamen" EntityType="Self.MsRamen" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MsRamenType" EntityType="Self.MsRamenType" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_MsRamen_ToTable_MsRamenType" Association="Self.FK_MsRamen_ToTable_MsRamenType">
+      <End Role="MsRamenType" EntitySet="MsRamenType" />
+      <End Role="MsRamen" EntitySet="MsRamen" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Database1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="MsRamen">
+          <Key>
+            <PropertyRef Name="RamenID" />
+          </Key>
+          <Property Name="RamenID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="RamenName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="RamenPrice" Type="int" Nullable="false" />
+          <Property Name="RamenTypeID" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="MsRamenType">
+          <Key>
+            <PropertyRef Name="RamenTypeID" />
+          </Key>
+          <Property Name="RamenTypeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="RamenTypeName" Type="varchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_MsRamen_ToTable_MsRamenType">
+          <End Role="MsRamenType" Type="Self.MsRamenType" Multiplicity="1" />
+          <End Role="MsRamen" Type="Self.MsRamen" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MsRamenType">
+              <PropertyRef Name="RamenTypeID" />
+            </Principal>
+            <Dependent Role="MsRamen">
+              <PropertyRef Name="RamenTypeID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Database1ModelStoreContainer">
+          <EntitySet Name="MsRamen" EntityType="Self.MsRamen" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="MsRamenType" EntityType="Self.MsRamenType" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_MsRamen_ToTable_MsRamenType" Association="Self.FK_MsRamen_ToTable_MsRamenType">
+            <End Role="MsRamenType" EntitySet="MsRamenType" />
+            <End Role="MsRamen" EntitySet="MsRamen" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Database1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="MsRaman">
+          <Key>
+            <PropertyRef Name="RamenID" />
+          </Key>
+          <Property Name="RamenID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="RamenName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="RamenPrice" Type="Int32" Nullable="false" />
+          <Property Name="RamenTypeID" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="MsRamenType" Relationship="Self.FK_MsRamen_ToTable_MsRamenType" FromRole="MsRamen" ToRole="MsRamenType" />
+        </EntityType>
+        <EntityType Name="MsRamenType">
+          <Key>
+            <PropertyRef Name="RamenTypeID" />
+          </Key>
+          <Property Name="RamenTypeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="RamenTypeName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="MsRamen" Relationship="Self.FK_MsRamen_ToTable_MsRamenType" FromRole="MsRamenType" ToRole="MsRamen" />
+        </EntityType>
+        <Association Name="FK_MsRamen_ToTable_MsRamenType">
+          <End Role="MsRamenType" Type="Self.MsRamenType" Multiplicity="1" />
+          <End Role="MsRamen" Type="Self.MsRaman" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MsRamenType">
+              <PropertyRef Name="RamenTypeID" />
+            </Principal>
+            <Dependent Role="MsRamen">
+              <PropertyRef Name="RamenTypeID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Database1Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="MsRamen" EntityType="Self.MsRaman" />
+          <EntitySet Name="MsRamenTypes" EntityType="Self.MsRamenType" />
+          <AssociationSet Name="FK_MsRamen_ToTable_MsRamenType" Association="Self.FK_MsRamen_ToTable_MsRamenType">
+            <End Role="MsRamenType" EntitySet="MsRamenTypes" />
+            <End Role="MsRamen" EntitySet="MsRamen" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Database1ModelStoreContainer" CdmEntityContainer="Database1Entities">
+          <EntitySetMapping Name="MsRamen">
+            <EntityTypeMapping TypeName="Database1Model.MsRaman">
+              <MappingFragment StoreEntitySet="MsRamen">
+                <ScalarProperty Name="RamenID" ColumnName="RamenID" />
+                <ScalarProperty Name="RamenName" ColumnName="RamenName" />
+                <ScalarProperty Name="RamenPrice" ColumnName="RamenPrice" />
+                <ScalarProperty Name="RamenTypeID" ColumnName="RamenTypeID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="MsRamenTypes">
+            <EntityTypeMapping TypeName="Database1Model.MsRamenType">
+              <MappingFragment StoreEntitySet="MsRamenType">
+                <ScalarProperty Name="RamenTypeID" ColumnName="RamenTypeID" />
+                <ScalarProperty Name="RamenTypeName" ColumnName="RamenTypeName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
