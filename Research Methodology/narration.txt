@@ -1,0 +1,39 @@
+Greetings Sir Samuel Philip and Ms Nadia
+
+Were from class LP01 - Group 19
+So for in this video we want to presentate our research paper poster
+
+and for the topic are as we can see on the title is ...
+for the member consists of myself steven, jojo and ricky
+
+now for the first ill explain the top left part first
+we start from the background first
+whats the background of our research why we choose this topic
+are because
+(LLMs) such as GPT are increasingly used to support scientific writing. However, these models are prone to hallucinations — the results may be fictitious, inaccurate, or unverifiable.
+
+This becomes especially critical issue in academic contexts, where factual precision, valid references, and structural integrity are essential. Hallucinations in AI-generated content threaten the reliability and credibility of scientific research.
+
+================================================================================
+This study aims to evaluate the effectiveness of the STORM framework (Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking) in minimizing hallucinations.
+STORM is designed to enhance:
+
+Factual Accuracy
+
+Content Structure
+
+Citation Reliability
+
+===============================================================================
+STORM Framework Overview
+The STORM pipeline simulates how human experts plan and write academic content:
+
+It begins by identifying a topic and surveying existing literature.
+
+It then gathers multiple perspectives and drafts an outline.
+
+Through a multi-agent dialogue, a “writer” and “expert” agent exchange questions and answers based on retrieved sources.
+
+These conversations help refine the outline, ensure balanced perspectives, and embed verified citations.
+
+The diagram illustrates this interactive process, where trusted references and synthesized knowledge lead to a well-structured, fact-checked academic article.

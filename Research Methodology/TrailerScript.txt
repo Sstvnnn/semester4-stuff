@@ -1,0 +1,11 @@
+Hello, I'm Steven Chowina
+In today’s world, AI has evolved so much especially large language models
+
+Large Language Models like ChatGPT and Gemini are incredibly powerful—but they come with a serious flaw thats hallucinating.
+
+This becomes a major problem in academic writing—where factual accuracy and citation integrity are so crucial
+
+That’s why we introduces STORM. What is Storm? 
+Storm is Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking 
+
+With STORM, we’re proving that AI writing can be accurate, reliable, and truly supportive for academic writing

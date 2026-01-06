@@ -1,0 +1,9 @@
+Introduction : (makin kerucut)
+1. AI secara general (kasih data dimana adopsi ai udh tingg/lg gila banget) dikit banget 2-3 kalimat.
+2. Salah satu subbidang ai yaitu LLM (generative ai) -> jelasin dlu apa itu generative AI (chatgpt, claude, dkk), kasih tau kalo generative ai lg booming banget.
+3. However implementasi ai itu sendiri tidak jauh dari pengembangan paper krn semua algoritma itu dari research paper org kayak LSTM, dll oleh karna itu in the end research paper itu penting banget.
+4. Maka dari itu proses penulisan paper sangatlah penting untuk bisa mengelaurkan output yg inovatif. salah satu caranya yaitu STORM yg dikeluarkan oleh Stanford
+5. Jelasin dikit aja STORM itu apa? dan kenapa bagus 
+6. Kasih tau tujuan paper (maka paper ini SLR [Systematic Literature Review] compare performa STORM vs Non-Storm) Buktiin hipotesa kalo yg pake STORM lbh bagus
+
+
