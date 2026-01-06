@@ -1,0 +1,37 @@
+Abstraction
+	Missing -> Terdapat data clumps dan primitive; Extract Class
+	Imperative -> Method/Procedural dijadikan sebuah class; Move Method
+	Incompleted -> Sebuah method belum dilengkapin common pairsnya; Lengkapin common pairs
+	Multifaceted -> Sebuah class memiliki >= 1 responsibility; Move Method
+	Unnecessary -> Sebuah class dibuat tetapi sebenarnya ga diperluin; Delete & Inline Class
+	Unutilized -> Sebuah class/interface tidak pernah digunakan; Delete unutilized class
+	Duplicate -> Terdapat class/interface yang memiliki kemiripan baik dari penamaan ataupun behavior; Rename/Inline Methd or Clas
+
+Encapsulation
+	Deficient -> Attribute masih public; Jadiin Private terus kasi setter/contstructor
+	Leaky -> method membocorkan detail implementasi internalnya meski access modifier private; Melakukan deep copy (clone) or rename to common naming
+	Unexploited -> Pemakaian switch/if-else untuk validasi tipe object; Replace code with polymorphism
+	Missing	-> Logic yang shrusnya terpisah dan ter-encapsulate malah digabung dalam satu class; Extract Superclass/ Extract Interface
+
+
+Modularization
+	Broken -> Attribute atau method yang seharusnya dalam satu class mala terpisah ke class lain; Move field/method
+	Insufficient -> Class memiliki terlalu banyak method atau method yg kompleks; Extract class/method
+	Cyclically-dependent -> 2 atau lebih class saling bergantung satu sama lain; Break Cyclic Depedency
+	Hub-Like -> Suatu class memiliki banyak ketergantungan kepada class lain atau class lain banyak bergantung kepadanya; Extract Class
+	
+Hierarchy
+	Missing -> Class punya method sama tetapi tidak digabungkan jadi satu; Extract superclass/interface
+	Unnecessary -> Subclass yang sebenarnya tidak diperlukan; Collapse Hierarchy, Replace subclass with fields 
+	Unfactored -> terdapat method sama di banyak subclass; Move Method
+	Wide -> Sebuah superclass memiliki sangat banyak subclass tanpa intermediate class; Introduce Intermediate class (interface/abstract)
+	Speculative -> Bbrp class dalam hierarchy yg dibuat karena alasan speculative; Delete Speculative Class
+	Deep -> Terlalu banyak inheritance sehingga menyebabkan inheritance terlalu dalam; Collapse Hierarchy
+	Multipath -> Sebuah class mewarisi dua kali class yang sama tapi lewat jalur beda; collapse hierarchy
+	Cyclic -> Ada cyclic depedency antara superclass dan subclass; Break Cyclic Depedency
+	Rebellious -> Ada subclass yang menolak inheritance/tidak memakai inherited method; Move Method
+	Broken -> Sebuah class dipaksain untuk menginheritance semua method superclassnya (hanya dipakai beberapa), karena dipaksa maka jadi broken;
+		  Replace Inheritance with Delegation
+
+
+	

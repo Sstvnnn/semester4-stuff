@@ -1,0 +1,83 @@
+The Bloaters (LLPLD)
+====================
+1. Long Method -> sebuah method hanya fokus ke spesifik satu tujuannya itu sendiri (tidak lebih dari > 10 line code)
+Solution: Extract Method
+
+2. Large Class -> sebuah class memiliki banyak fields/methods sehingga memiliki banyak tanggung jawab
+Solution: Extract Class
+
+3. Primitive Obsession -> Memakai primitive data type untuk hal yang bisa dibikin object
+Solution: Extract Class, Replace Data Value with Object
+
+4. Long Parameter List -> Sebuah method memiliki parameter lebih dari 3 atau 4
+Solution: Replace Parameter with Method Call, Preserve Whole Object, Introduce Parameter Object
+
+5. Data Clumps -> Sekumpulan variable atau attribute yg memiliki identical groups sehingga dapat dikelompokkan dalam satu class
+Solution: Extract Class
+
+THE Object Oriented Abuser (STRA)
+=================================
+1. Switch Statement -> Terlalu banyak switch-case atau if statements
+Solution: Extract Method, Move Method
+
+2. Temporary Fields -> Ada field di class yang cuma dipakai di kondisi tertentu
+Solution: Extract Class
+
+3. Reqused Bequest -> Menggunakan inheritance tetapi hanya menggunakan sebagian attribute atau method dari superclassnya
+Solution: Extract Superclass
+
+4. Alternative Classes with Different Interface -> Ada 2 class yg ngelakuin hal sama tapi dengan nama method berbeda
+Solution: Rename Method, Move Method, Extract Superclass
+
+CHANGE PREVENTER (DSP)
+======================
+1. Divergent Change -> Mengubah suatu hal di sebuah method tetapi juga harus mengubah berbagai method lainnya pada satu class
+Solution: Extract Class, Extract Superclass
+
+2. Shotgun Surgery -> Harus mengubah banyak class untuk satu perubahan kecil
+Solution: Extract Method, Move Method
+
+3. Parallel Inheritance Hierarchies -> Setiap ngebikin subclass di satu class, juga harus bikin subclass di class lain supaya cocok
+Solution: Move Method, Move Field ke class yang lebih tepat
+
+
+THE DISPENSABLE (CDD DLS)
+========================
+1. Comments -> memiliki komentar yang ngejelasin cara kodenya
+Solution: Rename method, extratc method, extract variable, delete comment
+
+2. Duplicate Code -> code yang sama dipakai berulang kali (duplikat)
+Solution: Extract Method
+
+3. Dead Code -> Code (method, variable, class) yg sudah tidak digunakan namun masih tetap ada didalam code kita
+Solution: Delete Dead Code
+
+4. Data Class -> Class yg isi nya cuma data (field + getter/setter), tidak mempunyai logic atau behavior lainnya dan juga tidak diencapsulate
+Solution: Encapsulate Field, Remove Setter, Move Method
+
+5. Lazy Class -> Class yang hanya punya sedikit method sehingga membuat classnya menjadi tidak penting atau sia-sia
+Solution: Inline Class, Collapse Hierarchy
+
+6. Speculative Generality -> Code yang ditulis untuk jaga-jaga di masa depan akan dipakai (spekulatif)
+Solution: Delete field atau method yang gak dipakai, Inline Class atau Method, Remove Parameter
+
+
+THE COUPLERS (FIMMI)
+=====================
+1. Feature Envy -> Sebuah method di class lebih sering mengakeses data class lain daripada class sendiri
+Solution: Move Method, Extract Method
+
+2. Inappropriate Intimacy -> Sebuah class menggunakan atribut dan method dari class lain tanpa access modifier
+Solution: Move Method, Move Field, Encapsulate with Getter
+
+3. Message Chains -> Suatu object memiliki ketergantungan dengan struktur internal object lainnya sehingga harus melewati banyak perantara jika ingin mengakses suatu data
+Solution: Hide Delegate, Move Method, Extract Method
+ 
+4. Middle Man -> Sebuah class yang bertugas hanya untuk meneruskan method ke class lain tanpa melakukan apapun karena hanya menjadi perantara antara class
+Solution: Remove Middle Man
+
+5. Incomplete Library Class -> Memakai library class (String, Date, dll) tetapi fitur yg dibutuhin belum tersedia
+Solution: Introduce Foregin Method, Introduce Local Extension
+
+
+

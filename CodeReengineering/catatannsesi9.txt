@@ -1,0 +1,6 @@
+The Dispensable (Sesi 9):
+1. Comments -> Extract Method
+2. Duplicate Code -> Extract Method
+3. Lazy Class -> Encapsulate and only use the constructor with getter
+4. Dead Code -> Delete Dead Code
+5. Speculatice Generality ->
