@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option go_package = "github.com/StevenLie14/go-bug/proto";
+
+import "proto/user.proto";
+
+service UserController {
+  rpc CreateUser (User) returns (UserResponse);
+}

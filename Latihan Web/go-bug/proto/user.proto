@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option go_package = "github.com/StevenLie14/go-bug/proto";
+
+message User {
+  string name = 1;
+  string email = 2;
+  string password = 3;
+}
+
+message UserResponse {
+  string message = 1;
+  User user = 2;
+}
